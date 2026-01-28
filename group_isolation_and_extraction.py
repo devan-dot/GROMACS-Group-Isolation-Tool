@@ -138,5 +138,6 @@ if '4' in choices:
     run_trjconv(tpr_file, f"{group_name}_only.pdb")
 
 print("\nAll selected operations completed successfully.")
+print("\nVisit https://github.com/devan-dot?tab=repositories for ore information.")
 
 
